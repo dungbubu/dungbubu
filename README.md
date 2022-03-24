@@ -10,10 +10,10 @@ Portfolio: https://dungbubu.com
 
 ------------  ------------  ------------  ------------  ------------  ------------
 
-Youtube:   https://dungbubu.com/youtube            Facebook:  https://dungbubu.com/facebook
+Youtube:   https://dungbubu.com/youtube      ||      Facebook:  https://dungbubu.com/facebook
 
-Linkedin:  https://dungbubu.com/linkedin           Instagram: https://dungbubu.com/instagram
+Linkedin:  https://dungbubu.com/linkedin     ||      Instagram: https://dungbubu.com/instagram
 
-Behance:   https://dungbubu.com/behance            Dribbble:  https://dungbubu.com/dribbble
+Behance:   https://dungbubu.com/behance      ||     Dribbble:  https://dungbubu.com/dribbble
 
 ------------  ------------  ------------  ------------  ------------  ------------
