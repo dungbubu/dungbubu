@@ -1,7 +1,8 @@
 😎 Hey, hi there!
 Would you like a cup of coffee ☕?
 
-This is my Portfolio, where I share everything about my work, my design... Hope you can find something useful here ^^!!!
+This is my Portfolio, where I share everything about my work, my design...
+Hope you can find something useful here ^^!!!
 Portfolio: https://dungbubu.com
 
 Youtube:   https://dungbubu.com/youtube
